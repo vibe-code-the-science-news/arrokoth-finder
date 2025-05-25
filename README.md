@@ -2,7 +2,7 @@
 
 _Recreating the discovery of the most distant object ever explored by a spacecraft_
 
-![Arrokoth Header Image](https://science.nasa.gov/wp-content/uploads/2023/09/arrokoth-stereo-pia23027.jpg)
+![Arrokoth Header Image](https://newhorizons.jhuapl.edu/Galleries/Featured-Images/pics800wide/CA06_color_m-h_desmear_destrip_contrast-selected%20cover.png)
 _Arrokoth (2014 MU69) as seen by New Horizons on January 1, 2019 - NASA/Johns Hopkins APL/Southwest Research Institute_
 
 ## 🌟 What is Arrokoth?
